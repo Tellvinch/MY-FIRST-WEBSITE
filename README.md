@@ -5,6 +5,7 @@
 The webpage contains all my favorite things that i most probably cant leave without.There are two different lists.One is of my favorite food and the other is of my best
 ## Setup/Installation Requirements
 * click on the link to open the page
+[LINK](https://tellvinch.github.io/my-fav-things/)
 ## Known Bugs
 There are no bugs 
 ## Technologies Used
